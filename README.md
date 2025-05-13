@@ -1,3 +1,6 @@
+
+
+
 # 📋 Cadastro de Clientes
 
 Formulário responsivo para cadastro de clientes com validação básica.
@@ -7,6 +10,12 @@ Formulário responsivo para cadastro de clientes com validação básica.
 - Design responsivo (mobile e desktop)
 - Cores personalizadas (#6bacbf)
 
+## 🌐 Acesso Online
+Disponível via GitHub Pages:  
+[Abrir formulário][https://github.com/Arnaldo-ck/cadastro-clientes
+
+> ✨ Desenvolvido por Arnaldo Kalamar https://github.com/Arnaldo-ck/
+  
 ## 🔧 Tecnologias
 - HTML5
 - CSS3
@@ -15,11 +24,7 @@ Formulário responsivo para cadastro de clientes com validação básica.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌐 Acesso Online
-Disponível via GitHub Pages:  
-[Abrir formulário][https://github.com/Arnaldo-ck/cadastro-clientes
 
-> ✨ Desenvolvido por Arnaldo Kalamar https://github.com/Arnaldo-ck/
 
 
 
